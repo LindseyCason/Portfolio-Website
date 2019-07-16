@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/lindseycason/Desktop/html5up-solid-state 2/assets"
+		},
+		{
+			"path": "/Users/lindseycason/Desktop/html5up-solid-state 2/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio-website",
+		"liveServer.settings.port": 5501
+	}
+}
